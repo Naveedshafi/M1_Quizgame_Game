@@ -1,15 +1,18 @@
-INTRODUCTION:
+# INTRODUCTION:
 The project i have choosen is Gaming project and named as Quizgame.When the user start playing the game there will be questions to answer, for each correct answer there will be a cash prize awarded. The highscore of diffrent users will be recorded.Levels will be increased only after  when they finish the previous level with correct answers.
-RESEARCH:	
+
+# RESEARCH:	
 The  game in the project are based on the correct answers they choose,which we will be implemented in the input.
-FEATURES:
+
+# FEATURES:
 •	The Game can continue at the level we have stopped 
 •	But cannot continue from the extact question from where we have stopped
 •	Press S to start the game
-Press V for Highscore
-Press R to reset score
-Press H for help
-Press Q to quit
+
+## Press V for Highscore
+## Press R to reset score
+## Press H for help
+## Press Q to quit
 
 SWOT
 STRENGTH:
@@ -25,10 +28,11 @@ Advancement in technology and more competitors for game.
 
 
 High Level Requirements
-DESCRIPTION	STATUS
-Choose the game and type the guest name	Implemented
-Player exit the game Implemented
-	Implemented
+|DESCRIPTION|STATUS|
+|:----------|:-----|
+|Choose the game and type the guest name|Implemented|
+|Player exit the game|Implemented|
+	
 
 Low Level Requirements
 DESCRIPTION	STATUS
