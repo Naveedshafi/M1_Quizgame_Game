@@ -14,14 +14,14 @@ The  game in the project are based on the correct answers they choose,which we w
 ## Press H for help
 ## Press Q to quit
 
-SWOT
-STRENGTH:
+#SWOT
+## STRENGTH:
 Its easy way of gaining knowledge for students
-WEAKNESS:
+## WEAKNESS:
 There is no lastest update of questions
-OPPORTUNITIES:
+## OPPORTUNITIES:
 Updating the current affaris can be improved
-THREATNESS:
+## THREATNESS:
 Advancement in technology and more competitors for game.
 
 
@@ -35,17 +35,18 @@ High Level Requirements
 	
 
 Low Level Requirements
-DESCRIPTION	STATUS
-Should choose the game and type guest name	Not Implemented
-Input is not required	Implemented
+|DESCRIPTION|STATUS|
+|:----------|:-----|
+|Should choose the game and type guest name|Not Implemented|
+|Input is not required|Implemented|
 
 
-4W’s & 1H
-Why
+# 4W’s & 1H
+## Why
 It is because any players can play the games and it is also a strategy game .
-Who
+## Who
 It is mainly focused for kids and Students
-When
+## When
 It can be played whenever the users need relaxation.
-Where
+## Where
 As it is a knowledge game and not restricted to any people.
