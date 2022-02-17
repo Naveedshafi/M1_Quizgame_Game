@@ -50,3 +50,8 @@ It is mainly focused for kids and Students
 It can be played whenever the users need relaxation.
 ## Where
 As it is a knowledge game and not restricted to any people.
+
+
+<a href="https://app.codiga.io/public/user/github/Naveedshafi">
+   <img src="https://api.codiga.io/public/badge/user/github/Naveedshafi?style=light" alt="codiga badge" />
+</a>
